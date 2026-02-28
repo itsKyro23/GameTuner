@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fps_booster",
+    "name": "FPS Booster Extreme",
+    "version": "1.2",
+    "author": "Kyro",
+    "min_sdk": "26",
+    "action_type": "direct",
+    "description": "Optimize FPS, reduce lag dan stabilkan frame rate untuk game berat dan kompetitif.",
+    "image_url": "https://github.com/kyro04-dev/GameTuner/raw/main/modules/assets/image/410808.jpg",
+    "size_module": "2.4 MB",
+    "url_file": "https://www.mediafire.com/file/bdokbnpp63p0act/ANGLE_Driver.zip/file"
+  }
+]
