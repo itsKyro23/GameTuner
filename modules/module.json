@@ -6,14 +6,7 @@
     "author": "Kyro",
     "min_sdk": "26",
     "action_type": "direct",
-    "description": "Force selected games to use the ANGLE graphics backend through Android global driver settings.
-This plugin: • Scans gamelist.txt
-• Detects installed games automatically
-• Applies ANGLE driver only to valid packages
-• Skips missing packages safely
-• Supports multi-game driver override
-Useful for improving compatibility, reducing graphical glitches, and stabilizing problematic GPU drivers.
-⚠ Performance improvement is not guaranteed. Effect depends on device GPU and Android version.",
+    "description": "description": "Forces selected games to use the ANGLE graphics driver via system driver override. Scans gamelist.txt, detects installed packages, and applies ANGLE only to valid games automatically. Useful for improving compatibility, fixing graphical glitches, and stabilizing problematic GPU drivers. Performance may vary depending on device GPU and Android version; FPS increase is not guaranteed.",
     "image_url": "https://raw.githubusercontent.com/itsKyro23/GameTuner/refs/heads/main/modules/assets/angle_driver.jpg",
     "size_module": "2.4 MB",
     "url_file": "https://github.com/itsKyro23/GameTuner/raw/52c9394d2314b802d1663b1a26ac35d856bb1663/modules/data/angle_driver.zip"
