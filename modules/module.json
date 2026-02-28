@@ -6,7 +6,7 @@
     "author": "Kyro",
     "min_sdk": "26",
     "action_type": "direct",
-    "description": "description": "Forces selected games to use the ANGLE graphics driver via system driver override. Scans gamelist.txt, detects installed packages, and applies ANGLE only to valid games automatically. Useful for improving compatibility, fixing graphical glitches, and stabilizing problematic GPU drivers. Performance may vary depending on device GPU and Android version; FPS increase is not guaranteed.",
+    "description": "Forces selected games to use the ANGLE graphics driver via system driver override. Scans gamelist.txt, detects installed packages, and applies ANGLE only to valid games automatically. Useful for improving compatibility, fixing graphical glitches, and stabilizing problematic GPU drivers. Performance may vary depending on device GPU and Android version; FPS increase is not guaranteed.",
     "image_url": "https://raw.githubusercontent.com/itsKyro23/GameTuner/refs/heads/main/modules/assets/angle_driver.jpg",
     "size_module": "2.4 MB",
     "url_file": "https://github.com/itsKyro23/GameTuner/raw/52c9394d2314b802d1663b1a26ac35d856bb1663/modules/data/angle_driver.zip"
