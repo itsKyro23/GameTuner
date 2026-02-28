@@ -1,14 +1,21 @@
 [
   {
-    "id": "fps_booster",
-    "name": "FPS Booster Extreme",
-    "version": "1.2",
+    "id": "K9x@T4m#Q7v!L2zR",
+    "name": "ANGLE Graphics Driver",
+    "version": "1.0",
     "author": "Kyro",
     "min_sdk": "26",
     "action_type": "direct",
-    "description": "Optimize FPS, reduce lag dan stabilkan frame rate untuk game berat dan kompetitif.",
-    "image_url": "https://github.com/kyro04-dev/GameTuner/raw/main/modules/assets/image/410808.jpg",
+    "description": "Force selected games to use the ANGLE graphics backend through Android global driver settings.
+This plugin: • Scans gamelist.txt
+• Detects installed games automatically
+• Applies ANGLE driver only to valid packages
+• Skips missing packages safely
+• Supports multi-game driver override
+Useful for improving compatibility, reducing graphical glitches, and stabilizing problematic GPU drivers.
+⚠ Performance improvement is not guaranteed. Effect depends on device GPU and Android version.",
+    "image_url": "https://raw.githubusercontent.com/itsKyro23/GameTuner/refs/heads/main/modules/assets/angle_driver.jpg",
     "size_module": "2.4 MB",
-    "url_file": "https://www.mediafire.com/file/bdokbnpp63p0act/ANGLE_Driver.zip/file"
+    "url_file": "https://github.com/itsKyro23/GameTuner/raw/52c9394d2314b802d1663b1a26ac35d856bb1663/modules/data/angle_driver.zip"
   }
 ]
