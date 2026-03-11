@@ -8,7 +8,7 @@
     "description": "Forces selected games to use the ANGLE graphics driver via system driver override. Scans gamelist.txt, detects installed packages, and applies ANGLE only to valid games automatically. Useful for improving compatibility, fixing graphical glitches, and stabilizing problematic GPU drivers. Performance may vary depending on device GPU and Android version; FPS increase is not guaranteed.",
     "image_url": "https://raw.githubusercontent.com/itsKyro23/GameTuner/refs/heads/main/modules/assets/angle_driver.jpg",
     "size_module": "12KB",
-    "url_file": "https://github.com/itsKyro23/GameTuner/raw/52c9394d2314b802d1663b1a26ac35d856bb1663/modules/data/angle_driver.zip"
+    "url_file": "https://github.com/itsKyro23/GameTuner/raw/main/modules/data/angle_driver.zip"
   }, 
   {
     "name": "Game Performance Boost",
@@ -19,6 +19,6 @@
     "description": "Enable system performance mode, adjust thermal service, disable animations, and optimize rendering for smoother gaming.",
     "image_url": "https://raw.githubusercontent.com/itsKyro23/GameTuner/refs/heads/main/modules/assets/gameboosterv1.jpeg",
     "size_module": "30KB",
-    "url_file": "https://github.com/itsKyro23/GameTuner/raw/52c9394d2314b802d1663b1a26ac35d856bb1663/modules/data/gameboosterv1.zip"
+    "url_file": "https://github.com/itsKyro23/GameTuner/raw/main/modules/data/gameboosterv1.zip"
   }
 ]
