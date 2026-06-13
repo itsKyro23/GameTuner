@@ -12,13 +12,13 @@
   }, 
   {
     "name": "Game Performance Boost",
-    "version": "1.0",
+    "version": "2.0",
     "author": "Kyro",
     "min_sdk": "30",
     "action_type": "direct",
-    "description": "Enable system performance mode, adjust thermal service, disable animations, and optimize rendering for smoother gaming.",
+    "description": "Optimize gaming performance with performance mode, thermal tuning, touch response enhancement, animation reduction, and FPS/refresh rate forcing (60/90/120Hz) for smoother and more responsive gameplay.",
     "image_url": "https://raw.githubusercontent.com/itsKyro23/GameTuner/refs/heads/main/modules/assets/gameboosterv1.jpeg",
-    "size_module": "30KB",
-    "url_file": "https://github.com/itsKyro23/GameTuner/raw/main/modules/data/gameboosterv1.zip"
+    "size_module": "31KB",
+    "url_file": "https://github.com/itsKyro23/GameTuner/raw/main/modules/data/Game%20Boosterv2.zip"
   }
 ]
