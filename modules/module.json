@@ -1,4 +1,14 @@
-[
+[{
+    "name": "Thermal Override",
+    "version": "1.0",
+    "author": "Kyro",
+    "min_sdk": "30",
+    "action_type": "direct",
+    "description": "Overrides the Android thermal status to reduce thermal throttling during gaming.",
+    "image_url": "https://github.com/itsKyro23/GameTuner/raw/main/modules/assets/thermal_override1.0.jpg",
+    "size_module": "2.07KB",
+    "url_file": "https://github.com/itsKyro23/GameTuner/raw/main/modules/data/thermal_override1.0.zip"
+  },
   {
     "name": "ANGLE Graphics Driver",
     "version": "1.0",
