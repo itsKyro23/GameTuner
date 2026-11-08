@@ -9,8 +9,15 @@
   {
     "id": "2",
     "title": "How to pairing via Notification",
-    "time": "Guide", 
+    "time": "Guide",
     "description": "Follow the step, if cannot pair or u get any error from your android phone, comment on the video....\nMaybe I will add shizuku back...\n\nhttps://youtube.com/shorts/4AdYTeHl69E?si=NsLP7G9if7vNu18o",
     "imageUrl": ""
+  },
+  {
+    "id": "3",
+    "title": "NOX – Game Space 🎮",
+    "time": "Beta Testing",
+    "description": "Explore gaming optimization tools for resolution, DPI, FPS, graphics, GPU, ANGLE drivers, and network settings.\n\n🚀 Join our beta testing!\n\n1. Join Google Group:\nhttps://groups.google.com/g/nox-game-space\n\n2. Become a Tester:\nhttps://play.google.com/apps/testing/com.nox.gamespace\n\n3. Download NOX:\nhttps://play.google.com/store/apps/details?id=com.nox.gamespace\n\n❤️ Test, share feedback, and help improve NOX!",
+    "imageUrl": "https://github.com/itsKyro23/GameTuner/raw/main/c043563f6761d869836ff470555bd26d.webp"
   }
 ]
